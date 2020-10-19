@@ -4,6 +4,7 @@
 # from https://wordpress.org/support/article/hardening-wordpress/
 #
 # Author: Dhiraj Thareja
+# Website: https://www.thareja.org
 #
 
 ROOT=/var/www/yourdomain.com/public_html #your wordpress site's root directory
