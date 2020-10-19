@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # This script configures WordPress file permissions based on recommendations
-# from http://codex.wordpress.org/Hardening_WordPress#File_permissions
+# from https://wordpress.org/support/article/hardening-wordpress/
 #
 # Author: Dhiraj Thareja
 #
