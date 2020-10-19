@@ -55,3 +55,5 @@ find /path/to/your/wordpress/install/ -type f -exec chmod 644 {} \;
 
 Full article on how to Harden Wordpress can be found here: https://wordpress.org/support/article/hardening-wordpress/
 
+Shared by: Dhiraj Thareja https://www.thareja.org
+
